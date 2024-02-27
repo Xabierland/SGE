@@ -5,7 +5,9 @@
 
 ## Windows
 
-¿Que te has creido que iba a poner como instalarlo en Windows? No
+¿Que te has creido que iba a poner como instalarlo en Windows?
+
+<img src="https://gist.githubusercontent.com/LoLei/7a90b6f4f6e4571dea4ae578dbe78b86/raw/e760dd809f213dcabff38c9d62989bab4825b07f/tux.png" alt="Viva GNU/Linux" width="32" height="38">
 
 ## Instalacion en local - Ubuntu/Debian
 
