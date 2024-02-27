@@ -46,7 +46,7 @@ firefox localhost:8069
 
 > [!WARNING]
 > Guarda la contraseña maestra que te da el instalador.
-> En caso de que no te la muestre o la hayas perdido, comenta la linea `admin_passwd =` en el archivo `/etc/odoo/odoo.conf` y reinicia el servicio con `sudo systemctl restart odoo`.
+> En caso de que no te la muestre o la hayas perdido, comenta la linea `admin_passwd =` con un `;` en el archivo `/etc/odoo/odoo.conf` y reinicia el servicio con `sudo systemctl restart odoo`.
 
 ## Usando contenedores Docker
 
@@ -74,4 +74,4 @@ firefox localhost:8069
 
 > [!WARNING]
 > Guarda la contraseña maestra que te da el instalador.
-> En caso de que no te la muestre o la hayas perdido, comenta la linea `admin_passwd =` en el archivo `config/odoo.conf` y reinicia el servicio con `docker compose restart`.
+> En caso de que no te la muestre o la hayas perdido, comenta la linea `admin_passwd =` con un `;` en el archivo `config/odoo.conf` y reinicia el servicio con `docker compose restart`.
