@@ -3,7 +3,11 @@
 > [!NOTE]
 > Las practicas se desarrollaran desde el entorno web de Odoo. La instalacion solo se utilizara en momentos muy puntuales.
 
-## Instalacion en local
+## Windows
+
+¿Que te has creido que iba a poner como instalarlo en Windows? No
+
+## Instalacion en local - Ubuntu/Debian
 
 > [!CAUTION]
 > Es importante seguir el orden de los pasos.
@@ -46,7 +50,7 @@ firefox localhost:8069
 Descargamos el docker-compose.yml
 
 ```bash
-wget
+wget https://raw.githubusercontent.com/Xabierland/SGE/master/Practicas/Practica01/docker/docker-compose.yaml
 ```
 
 Ejecutamos el contenedor
