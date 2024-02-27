@@ -4,15 +4,9 @@
 > Las practicas se desarrollaran desde el entorno web de Odoo. La instalacion solo se utilizara en momentos muy puntuales.
 
 - [Instalacion de Odoo](#instalacion-de-odoo)
-  - [Windows](#windows)
   - [Instalacion en local - Ubuntu/Debian](#instalacion-en-local---ubuntudebian)
   - [Usando contenedores Docker](#usando-contenedores-docker)
-
-## Windows
-
-¿Que te has creido que iba a poner como instalarlo en Windows?
-
-<img src="https://gist.githubusercontent.com/LoLei/7a90b6f4f6e4571dea4ae578dbe78b86/raw/e760dd809f213dcabff38c9d62989bab4825b07f/tux.png" alt="Viva GNU/Linux" width="32" height="38">
+  - [Instalacion en local - Windows](#instalacion-en-local---windows)
 
 ## Instalacion en local - Ubuntu/Debian
 
@@ -75,3 +69,9 @@ firefox localhost:8069
 > [!WARNING]
 > Guarda la contraseña maestra que te da el navegador.
 > En caso de que no te la muestre o la hayas perdido, comenta la linea `admin_passwd =` con un `;` en el archivo `config/odoo.conf` y reinicia el servicio con `docker compose restart`.
+
+## Instalacion en local - Windows
+
+¿Que te has creido que iba a poner como instalarlo en Windows?
+
+<img src="https://gist.githubusercontent.com/LoLei/7a90b6f4f6e4571dea4ae578dbe78b86/raw/e760dd809f213dcabff38c9d62989bab4825b07f/tux.png" alt="Viva GNU/Linux" width="32" height="38">
