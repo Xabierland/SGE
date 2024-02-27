@@ -1,7 +1,7 @@
 # Instalacion de Odoo
 
 > [!NOTE]
-> Las practicas se desarrollaran desde el entorno web de Odoo. La instalacion solo se utilizara en momentos muy puntuales.
+> Las practicas se desarrollaran desde el [entorno web de Odoo](https://www.odoo.com/es_ES/web/login). La instalacion solo se utilizara en momentos muy puntuales.
 
 - [Instalacion de Odoo](#instalacion-de-odoo)
   - [Instalacion en local - Ubuntu/Debian](#instalacion-en-local---ubuntudebian)
