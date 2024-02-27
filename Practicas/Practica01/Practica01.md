@@ -3,6 +3,11 @@
 > [!NOTE]
 > Las practicas se desarrollaran desde el entorno web de Odoo. La instalacion solo se utilizara en momentos muy puntuales.
 
+- [Instalacion de Odoo](#instalacion-de-odoo)
+  - [Windows](#windows)
+  - [Instalacion en local - Ubuntu/Debian](#instalacion-en-local---ubuntudebian)
+  - [Usando contenedores Docker](#usando-contenedores-docker)
+
 ## Windows
 
 ¿Que te has creido que iba a poner como instalarlo en Windows?
