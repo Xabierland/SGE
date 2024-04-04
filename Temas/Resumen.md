@@ -18,6 +18,13 @@
   - [1.6. Gestión de recursos humanos](#16-gestión-de-recursos-humanos)
   - [1.7. e-Commerce](#17-e-commerce)
   - [1.8. Business Intelligence](#18-business-intelligence)
+    - [1.8.1. ¿Qué es Business Intelligence?](#181-qué-es-business-intelligence)
+    - [1.8.2. Componentes de un Business Intelligence](#182-componentes-de-un-business-intelligence)
+    - [1.8.3. Capacidades Analíticas de un Business Intelligence](#183-capacidades-analíticas-de-un-business-intelligence)
+    - [1.8.4. Implementación de un Business Intelligence](#184-implementación-de-un-business-intelligence)
+    - [1.8.5. Definición de los orígenes de datos](#185-definición-de-los-orígenes-de-datos)
+    - [1.8.6. Extracción y organización de los datos](#186-extracción-y-organización-de-los-datos)
+    - [1.8.7. Aplicación de herramientas analíticas](#187-aplicación-de-herramientas-analíticas)
 
 ## 1.1. Sistema de Información
 
@@ -182,8 +189,6 @@
 
 ## 1.2. Los sistemas de información de las organizaciones
 
-
-
 ## 1.3. Soluciones integradas para la planificación de recursos
 
 ## 1.4. Gestión de la relaciones con los clientes
@@ -195,3 +200,121 @@
 ## 1.7. e-Commerce
 
 ## 1.8. Business Intelligence
+
+### 1.8.1. ¿Qué es Business Intelligence?
+
+- Herramientas y sistemas que permiten recopilar, almacenar, procesar, acceder y analizar información para la generación de informes casi en tiempo real para la toma de decisiones
+  - IBM Cognos
+  - Oracle BI
+  - Microsoft BI
+  - Hitachi Vantara
+  - tableau
+  - QlikView
+  - Business Objects
+
+### 1.8.2. Componentes de un Business Intelligence
+
+- Datos de entorno empresarial
+  - SQL o NoSQL
+  - Big Data
+- Infraestructura de BI
+  - SGBD potentes
+  - Almacenan TODOS los datos de la empresa
+- Business Analytics Toolset
+  - Software de análisis de datos
+- Usuarios y métodos de dirección
+  - Metodologías de análisis
+- Distribución de información
+  - Presentar a cada usuario la información que necesita
+- Interfaz de usuario
+  - Imagenes, graficos, tablas, etc
+  - Visual
+
+### 1.8.3. Capacidades Analíticas de un Business Intelligence
+
+- Capacidad apra generar:
+  - Informes fijos
+  - Informes parametrizados
+  - Cuadros de mando
+  - Creación de informes ad-hoc
+  - Capacidad de desglose para más detalles
+
+### 1.8.4. Implementación de un Business Intelligence
+
+- Requisitos
+  - Definir los orígenes de datos
+  - Extracción y organización de los datos
+  - Aplicación de herramientas analíticas
+  - Visualización de los resultados
+- Pasos
+  - Entender las necesidades de la empresa
+  - Minar los datos
+  - Limpiar los datos
+  - Analizar los datos
+  - Seleccionar los datos relevantes
+  - Crear un modelo predictivo
+  - Visualizar los datos
+
+### 1.8.5. Definición de los orígenes de datos
+
+- CRM
+  - Relaciones con los clientes
+- RRHH
+  - Recursos humanos
+- ERP
+  - Planificación de recursos
+- Suply Chain
+  - Cadena de suministros
+- Otros
+  - Bases de datos
+  - Documentos impresos
+  - Archivos de texto
+  - Archivos multimedia
+  - Sistemas operativos
+
+### 1.8.6. Extracción y organización de los datos
+
+- Proceso:
+  - Tratar inconsistencia en el formato o codificación de los datos
+  - Filtrado y reestrucuración de los datos
+  - Tratar las inconsistencias en el contenido
+  - Crear rutinas para automatizar la transformaciónes ya definidas de los datos
+- Asegurar la calidad de los datos
+- Eliminar datos incorrectos, desactualizados o incosistentes, llevan a errores.
+- Auditar la calidad de los datos
+  - Analizar la corrección de completitud de los datos
+  - Se realiza sobre todos los datos, muestras de datos o sobre encuestas a los usuarios.
+- Limpieza de datos
+  - Detectar y corregir los datos incorrectos
+  - No solo corrige si no que evita inconsistencias futuras
+
+### 1.8.7. Aplicación de herramientas analíticas
+
+- Se han generado BBDD para grandes volúmenes de datos
+- Pueden ser tanto SQL como NoSQL
+- Se pueden ofrecer como servicio web
+- Una vez capturado los datos se generan informes
+  - OLAP
+    - Datos multidimensionales
+    - Se presentan con formato de cubo
+    - Se calculan todas las posibles combinaciones de los datos para obtener la información de la forma mas rápida y precisa
+    - Rotar el cubo muestra las diferentes perspectivas
+    - Tiene soporte para consultas complejas
+    - Se necesita tener una idea sobre la información que se quiere obtener
+  - Data mining
+    - Orientada al descubrimiento
+    - Busca patrones y relaciones en los datos para inferir reglas con las que predecir comportamientos futuros
+    - Estas reglas se usan para la toma de decisiones
+    - Tipos de información
+      - Asociaciones
+      - Secuencias
+      - Clasificación
+      - Clustering
+      - Pronósticos
+  - Querying and reporting
+    - Informes formateados para los diferentes niveles de la organización
+    - Los informes operativos muestran la realidad de la empresa inmediata
+    - Los informes analíticos muestran la información de forma mas detallada
+      - Resumen de la información
+      - Fines analíticos
+      - Tomar decisiones
