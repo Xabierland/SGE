@@ -16,7 +16,21 @@
   - [1.4. Gestión de la relaciones con los clientes](#14-gestión-de-la-relaciones-con-los-clientes)
   - [1.5. Gestión de la cadena de suministro](#15-gestión-de-la-cadena-de-suministro)
   - [1.6. Gestión de recursos humanos](#16-gestión-de-recursos-humanos)
+    - [1.6.1. ¿Qué es la gestión de recursos humanos?](#161-qué-es-la-gestión-de-recursos-humanos)
+    - [1.6.2. Funciones de la gestión de recursos humanos](#162-funciones-de-la-gestión-de-recursos-humanos)
+    - [1.6.3. Gestión de recursos humanos en la empresa](#163-gestión-de-recursos-humanos-en-la-empresa)
+    - [1.6.4. Herramientas de gestión de recursos humanos](#164-herramientas-de-gestión-de-recursos-humanos)
+    - [1.6.5. Componentes basicos](#165-componentes-basicos)
+    - [1.6.6. Planificación de los recursos humanos](#166-planificación-de-los-recursos-humanos)
+    - [1.6.7. Beneficios de los recursos humanos](#167-beneficios-de-los-recursos-humanos)
   - [1.7. e-Commerce](#17-e-commerce)
+    - [1.7.1. ¿Qué es el e-Commerce?](#171-qué-es-el-e-commerce)
+    - [1.7.2. Características del e-Commerce](#172-características-del-e-commerce)
+    - [1.7.3. Evolución del e-Commerce](#173-evolución-del-e-commerce)
+    - [1.7.4. Herramientas comerciales](#174-herramientas-comerciales)
+    - [1.7.5. Tipos de e-Commerce](#175-tipos-de-e-commerce)
+    - [1.7.6. Mobile Commerce](#176-mobile-commerce)
+    - [1.7.7. Mecanismos de e-Commerce](#177-mecanismos-de-e-commerce)
   - [1.8. Business Intelligence](#18-business-intelligence)
     - [1.8.1. ¿Qué es Business Intelligence?](#181-qué-es-business-intelligence)
     - [1.8.2. Componentes de un Business Intelligence](#182-componentes-de-un-business-intelligence)
@@ -197,7 +211,229 @@
 
 ## 1.6. Gestión de recursos humanos
 
+### 1.6.1. ¿Qué es la gestión de recursos humanos?
+
+- Software que busca motivar, fidelizar y optimizar la capacidad de los empleados para que aporten mayor valor a la empresa
+
+### 1.6.2. Funciones de la gestión de recursos humanos
+
+- Captar, motivar y formar
+- Medir el nivel de eficiencia y efiacia de todos los trabajadores
+- Obtener datos para realizar una correcta politica de personal
+
+### 1.6.3. Gestión de recursos humanos en la empresa
+
+- Personal
+- Formacion
+- Seleccion
+- Compensacion y beneficios
+- Talento humano
+- Portal del empleado
+- Expatriados
+
+### 1.6.4. Herramientas de gestión de recursos humanos
+
+- Oracle HCM Cloud
+- SAP HCM
+- meta4
+- OpenHRMS
+- Workday
+
+### 1.6.5. Componentes basicos
+
+- Nominas
+  - Automatizar el proceso del calculo de las nominas
+- Portal del empleado
+  - Descentralizar algunas tareas del departamento de RRHH
+- Gestion del talento
+  - Seleccionar, definir roles, puesto, responsabilidades,... de forma objetiva
+- Gestion administrativa
+  - Optimiza los procesos internos
+
+### 1.6.6. Planificación de los recursos humanos
+
+- Simulación del desempeño de la planificación de los recursos humanos
+- Analizar y pronosticar los costes mediante datos
+- Poder planificar la demanda de personal para comenzar con los procesos de reclutamiento, capacitación y selección.
+
+### 1.6.7. Beneficios de los recursos humanos
+
+- Automatización de procesos
+- Mejora del intercambio de información
+- Amplia la vision global
+- Datos actualizados
+- Timesheets
+  - Registro de horas trabajadas
+  - Control del tiempo dedicado a tareas
+  - Control de horas extras
+  - Facturas direcamente las horas trabajadas
+- Vacaciones
+  - Solicitud y aprobaciones
+  - Justificantes
+  - Calendario de vacaiones compartido
+  - Evita inconsistencia en la información
+  - Privacidad de la información
+- Gestión de gastos
+  - Notas de gatos
+  - Capturas de tickets
+  - Facturas
+  - Verifica extractos con la cuenta bancaria
+  - Aprueba o rechaza gastos
+  - Dietas
+  - Homologación de la Agencia Tributaria
+- Recruitment
+  - Publicar ofertas de trabajo
+  - Gestion de CV
+  - Analisis de candidatos
+  - E-Recruitment
+    - Proceso de selección de personal a través de internet
+    - Gastos reducidos
+    - Mas datos
+    - Analisis de competencias
+    - Analisis de redes sociales
+  - Gestión de proyerctos
+    - Gestiona todos los aspectos del proyecto
+    - Comunicacion entre los participantes
+    - Tanto internos como orientados al cliente
+    - Analisis de rendimiento
+    - Gestion de documentación
+    - Asignacion de tareas
+    - Gestion de tiempo
+    - Metodologias agiles
+    - Monitorizacion del tiempo
+
 ## 1.7. e-Commerce
+
+### 1.7.1. ¿Qué es el e-Commerce?
+
+- Proceso de compra y venta de productos o servicios a través de internet
+- Tipos:
+  - Producto y distribución digital
+  - Producto y distribución física
+  - Producto fisico y distribución digital
+- Concepto amplio que incluye:
+  - Comercio electrónico
+  - Servicios a los clientes
+  - Colaboración con socios
+  - Transacciones dentro de la empresa
+
+### 1.7.2. Características del e-Commerce
+
+- Ubicuidad
+  - Acceso a la tienda en cualquier momento y lugar
+- Globalidad
+  - Acceso a la tienda desde cualquier parte del mundo
+- Estandarización universal
+  - Estándares de comunicación
+- Tecnologia social
+  - Redes sociales
+- Personalización
+  - Adaptación de la tienda a las necesidades del cliente
+- Densidad de información
+  - Gran cantidad de información disponible
+- Interactividad
+  - Capacidad de interactuar con la tienda
+- Riqueza de información
+  - Información multimedia
+
+### 1.7.3. Evolución del e-Commerce
+
+### 1.7.4. Herramientas comerciales
+
+- Oracle E-Business Suite
+- WordPress WooCommerce
+- SAP Commerce Cloud
+- Magento
+- Shopify
+- PrestaShop
+- Zen Cart
+
+### 1.7.5. Tipos de e-Commerce
+
+- B2C - Business to Consumer
+  - Venta de productos o servicios a consumidores finales
+  - Menos volumen que B2B
+  - Mayor complejidad
+    - Mucho comprador
+    - Menos vendedores
+    - Millones de pequeñas transacciones diarias
+  - Procesar muchas ordenes de compras y devoluciones rapidamente
+  - Ejemplos:
+    - Servicios:
+      - Banca
+      - Busqueda de empleo
+      - Viajes
+    - Productos:
+      - Tiendas online
+  - Ventajas:
+    - Abierto 24/7
+    - Comparar precios
+    - Gran variedad de productos
+    - Sin intermediarios
+  - Publicidad
+    - Banners
+    - Pop-ups
+    - Emails
+      - Cuidado spam
+    - Marketing viral
+- B2B - Business to Business
+  - Venta de productos o servicios a otras empresas
+  - Mayor volumen, casi 85% del comercio electrónico
+  - Modelos de negocios
+    - Sell side
+      - Vender productos o servicios mediante una web
+      - Similar a una tienda online
+      - Especialmente productos customizados
+    - Buy side
+      - e-Procurment, los clientes establecen las demandas de sus productos
+      - Se suelen hacer compras conjuntas
+        - Incluso el vendedor es el que agrupa las compras
+    - Intercambios electrónicos
+      - Plataformas que conectan a compradores y vendedores
+      - La transacción se puede realizar fuera de la plataforma
+- C2C - Consumer to Consumer
+  - Venta de productos o servicios entre consumidores
+  - La empresa no interviene en la transacción
+
+### 1.7.6. Mobile Commerce
+
+- Comercios electronicos en entornos inalámbricos
+- Igual que el comercio electrónico pero teniendo en cuenta:
+  - La localización
+  - El uso de la camara
+  - Conexion continua a internet
+  - Disponibilidad en todo momento
+
+### 1.7.7. Mecanismos de e-Commerce
+
+- Diversos mecanismos para realizar transacciones en el comercio electrónico
+  - Catalogo
+    - Listado de productos o servicios normalmente a traves de una web
+  - Subastas
+    - Precio dinamico mediante pujas
+  - E-storefront
+    - La tienda online
+  - E-mall
+    - Varias tiendas en un mismo sitio
+  - E-marketplace
+    - Varios compradores y vendedores desarroyan actividades comerciales
+- Los pagos electrónicos
+  - Cheques electrónicos
+    - Sobre todo en B2B
+    - Se necesita una cuenta bancaria especial
+    - Se envia un cheque encriptado al vendedor
+    - El vendedor lo deposita en su banco
+  - Tarjetas electrónicas
+    - Tarjetas de credito
+    - Trajetas de credito virtuales
+    - Tarjetas prepago
+    - Smart cards
+  - Pagos interpersonales (P2P)
+    - Paypal
+    - Bizum
+    - Twyp
+    - Verse
+    - Paymee
 
 ## 1.8. Business Intelligence
 
