@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex DOP"] 1712689363 "DOP.aux" "DOP.bbl" "DOP" 1712689532 0
+["bibtex DOP"] 1712692237 "DOP.aux" "DOP.bbl" "DOP" 1712692239 0
   "./bibliografia.bib" 1712685711 449 85ff1e1a6a733c06dc3c7a49b877ffaa ""
   "C:/Users/xabie/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/plain.bst" 1291864736 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "DOP.aux" 1712689532 3151 a20dfe6435452a4a247401dd2f7fac84 "pdflatex"
+  "DOP.aux" 1712692239 6412 030e2bcae31ac8303cb1c3cbda053f8d "pdflatex"
   (generated)
   "DOP.bbl"
   "DOP.blg"
   (rewritten before read)
-["pdflatex"] 1712689531 "c:/Users/xabie/Documents/GitHub/SGE/Proyecto/Doc/DOP/DOP.tex" "DOP.pdf" "DOP" 1712689532 0
+["pdflatex"] 1712692238 "c:/Users/xabie/Documents/GitHub/SGE/Proyecto/Doc/DOP/DOP.tex" "DOP.pdf" "DOP" 1712692239 0
   "C:/Users/xabie/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1703607267 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/xabie/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1704727945 24141907 cf2cd8b025fa2ef2b34b37aaa9fbf8e1 ""
   "C:/Users/xabie/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx10.tfm" 1136765053 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -82,14 +82,14 @@
   "C:/Users/xabie/AppData/Local/Programs/MiKTeX/tex/latex/tools/multicol.sty" 1686255640 32515 51caec75eda9c8890135f12f1a4eddc3 ""
   "C:/Users/xabie/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/xabie/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
-  "DOP.aux" 1712689532 3151 a20dfe6435452a4a247401dd2f7fac84 "pdflatex"
-  "DOP.bbl" 1712689363 440 021f22c4c09728a95c08c854e61a509e "bibtex DOP"
-  "DOP.lof" 1712689532 348 0aa24dc167209f0968c982d93ab33157 "pdflatex"
-  "DOP.lot" 1712689532 110 23afabf659c39586fe5fdf469f0fda26 "pdflatex"
-  "DOP.out" 1712689532 1942 086697b8584de900a7c843bfd7bd93ef "pdflatex"
-  "DOP.tex" 1712689530 9588 0b8f1d80549f629071ca5be4380423e2 ""
-  "DOP.toc" 1712689532 1041 b1ce14ba4b9c9b86e7e6a60f28eb5e9c "pdflatex"
-  "c:/Users/xabie/Documents/GitHub/SGE/Proyecto/Doc/DOP/DOP.tex" 1712689530 9588 0b8f1d80549f629071ca5be4380423e2 ""
+  "DOP.aux" 1712692239 6412 030e2bcae31ac8303cb1c3cbda053f8d "pdflatex"
+  "DOP.bbl" 1712692238 440 021f22c4c09728a95c08c854e61a509e "bibtex DOP"
+  "DOP.lof" 1712692239 348 0aa24dc167209f0968c982d93ab33157 "pdflatex"
+  "DOP.lot" 1712692239 110 23afabf659c39586fe5fdf469f0fda26 "pdflatex"
+  "DOP.out" 1712692239 7058 68dd53d22f26101f70ce90d0cc76d60d "pdflatex"
+  "DOP.tex" 1712692235 21553 34ea40601b42338544a3a7c497eb47e8 ""
+  "DOP.toc" 1712692239 3359 1845dabd47280b12e0146131a79d04ef "pdflatex"
+  "c:/Users/xabie/Documents/GitHub/SGE/Proyecto/Doc/DOP/DOP.tex" 1712692235 21553 34ea40601b42338544a3a7c497eb47e8 ""
   "img/competidores.png" 1712687648 25592 5ec3c69e381d5a1f35a9fe74f891dd41 ""
   "img/logo.jpg" 1709732244 98379 12d64726781c82a1d0d94072c3f8cfcd ""
   "img/ssm.png" 1712686754 50128 34f5b785609c4b3f406e6a06fe28f5a9 ""
