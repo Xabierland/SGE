@@ -15,6 +15,14 @@
   - [1.3. Soluciones integradas para la planificación de recursos](#13-soluciones-integradas-para-la-planificación-de-recursos)
   - [1.4. Gestión de la relaciones con los clientes](#14-gestión-de-la-relaciones-con-los-clientes)
   - [1.5. Gestión de la cadena de suministro](#15-gestión-de-la-cadena-de-suministro)
+    - [1.5.1. ¿Qué es la gestión de la cadena de suministro?](#151-qué-es-la-gestión-de-la-cadena-de-suministro)
+    - [1.5.2. Evolucón de la gestión de la cadena de suministro](#152-evolucón-de-la-gestión-de-la-cadena-de-suministro)
+    - [1.5.3. Flujo de información](#153-flujo-de-información)
+    - [1.5.4. Tipos de Software SCM](#154-tipos-de-software-scm)
+    - [1.5.5. Mercado de SCM](#155-mercado-de-scm)
+    - [1.5.6. SCM en la empresa](#156-scm-en-la-empresa)
+    - [1.5.7. Modulos de un SCM](#157-modulos-de-un-scm)
+    - [1.5.7. Industria 4.0, Cloud, IoT, Big Data y otras tecnologías relacionadas con la SCM](#157-industria-40-cloud-iot-big-data-y-otras-tecnologías-relacionadas-con-la-scm)
   - [1.6. Gestión de recursos humanos](#16-gestión-de-recursos-humanos)
     - [1.6.1. ¿Qué es la gestión de recursos humanos?](#161-qué-es-la-gestión-de-recursos-humanos)
     - [1.6.2. Funciones de la gestión de recursos humanos](#162-funciones-de-la-gestión-de-recursos-humanos)
@@ -208,6 +216,182 @@
 ## 1.4. Gestión de la relaciones con los clientes
 
 ## 1.5. Gestión de la cadena de suministro
+
+### 1.5.1. ¿Qué es la gestión de la cadena de suministro?
+
+- Seguimiento de los materiales, información y finanzas durante todo el proceso de producción
+- Conlleva la coordinación y la integración de los procesos tanto internos como externos
+- Busca la reducción de inventario
+
+### 1.5.2. Evolucón de la gestión de la cadena de suministro
+
+- 1982 - Con un articulo del Financial Times
+- Mediados de los 90 - Se populariza, se definen todos los procesos que intervienen en la cadena de suministro con la idea de alcanzar ventajas competitivas
+- Finales de los 90 - Se generaliza como una parte de la gestión de la empresa
+
+### 1.5.3. Flujo de información
+
+- Flujo de productos
+  - Comprender el movimiento de la mercancía
+- Flujo de información
+  - Comunicacion de pedidos y actualizacion de la información de los mismos
+- Flujo financiero
+  - Condiciones de creditos, calendarios de pago y disponibilidad de fondos
+
+### 1.5.4. Tipos de Software SCM
+
+- Aplicaciones de planificación
+  - Hayar la mejor manera de procesar los pedidos
+- Aplicaciones de ejecución
+  - Seguimiento del estado, materiales e informacion relevante de los perdidos de todas las partes involucradas
+
+### 1.5.5. Mercado de SCM
+
+- SAP SCM
+- Visual SCM
+- Odoo
+- Infor
+- Verizon Connect
+- Oracle SCM
+
+### 1.5.6. SCM en la empresa
+
+- Se producen intercambios de datos tanto dentro como fuera de la empresa (empresa extendida)
+- Los datos se almacenan en una base de datos que pueden estar en varios lugares
+- Los datos se comparten en ambas direcciones
+  - Upstream (proveedores)
+  - Downstream (clientes)
+- Mejoran el tiempo de salida, reducen los costes, gestionan mejor los recursos y ayudan a su futura planificación
+
+### 1.5.7. Modulos de un SCM
+
+- Compras
+  - El proceso de compras ahorra tiempo, dinero y minimiza los errores
+  - Funciones:
+    - Control de los proveedores
+      - Diversidad
+      - Comparar
+      - Estudiar el mercado
+    - Control de pedidos y entregas
+      - Seguimientos de pedidos
+      - Control de calidad
+    - Existencias
+      - Control de stock
+    - Planificación de compras
+      - Previsiones
+      - Preparaciones de ordenes de compra
+  - Ventajas:
+    - Detectar necesidades de compra
+      - Permite controlar el almacen e inventario facilitando labores del personal
+    - Optimizar la gestión de compra
+      - Gestion centralizada con los proveedores, precios, analisis comparativos y el coste de produccion
+    - Tomar decisiones efectivas con mayor agilidad
+      - Ayuda en la toma de decisiones como cuando comprar, como, a quien...
+    - Verificar la gestión de pedidos y facturas
+      - Sigue las normativas para evitar errores
+    - Facilitar el trabajo de todo el equipo de compras
+      - Al tener toda la información centralizada es mas facil acceder a ella
+- SRM: Supplier Relationship Management
+  - Parte del proceso de compra
+  - Crea aliados estratégicos ganando confianza con los proveedores
+  - Ambos obtienen mayor tasa de exito a la vez que se reducen los factores de riesgo al aumentar la colaboración e innovación
+  - Ventajas:
+    - Menor tiempo de transacción
+      - Transacciones mas rapidas
+    - Toma de decisiones eficiente
+      - Identificar los riesgos y vulnerabilidades
+    - Reducción de costos
+      - Fomentar relaciones evita costos inncesarios de renegociaciones o finalizaciones de contratos
+    - Consolidación de la cadena de suministro
+      - Comprender el negocio del otro ayuda a prepararse mutuamente.
+    - Mejora continua
+      - Compartir ideas y comentarios ayuda a mejorar y simplificar las operaciones y el tiempo y coste de las mismas
+- MRP: Manufacturing Resource Planning
+  - Un plan maestro de producción
+  - Cuanto y como se va a producir
+  - Proporciona informacion mientras el producto se encuentra en la linea de producción
+- PLM: Product Lifecycle Management
+- MES: Manufacturing Execution System
+- Ventas
+- Contabilidad
+- Inventario
+
+### 1.5.7. Industria 4.0, Cloud, IoT, Big Data y otras tecnologías relacionadas con la SCM
+
+- Industria 4.0
+  - La cuarta revolución industrial esta marcada por grandes avances tecnológicos
+    - Robotica
+    - Inteligencia artificial
+    - Nano tecnología
+    - Computación cuántica
+    - Biotecnología
+    - IoT
+    - Impresión 3D
+    - Vehicle autónomos
+  - Tendencia hacia la automatización y la digitalización
+  - Asociado al desarrollo y la manufactura de productos
+  - Las fabricas inteligentes incluyen:
+    - Sistemas ciberfísicos
+    - IoT
+    - Cloud computing
+- Cloud Computing
+  - Proporcionar servicios a traves de internet
+    - PaaS - Plataforma como servicio
+    - SaaS - Software como servicio
+    - IaaS - Infraestructura como servicio
+    - FaaS - Funciones como servicio
+  - Tipos
+    - Redes públicas
+    - Redes privadas
+    - Redes híbridas
+  - Ventajas
+    - Agilidad en la puesta en marcha
+    - Minimizar costes
+      - Se paga por lo que se usa
+    - Seguridad en los datos
+      - Copias de seguridad
+    - Ubicuidad
+      - Acceso desde cualquier lugar
+    - Escalabilidad
+      - Aumentar o disminuir recursos
+- IoT
+  - Dispositivos conectados a internet
+    - Sensores para el control a tiempo real
+  - IIoT
+    - IoT industrial
+  - Intervenciones predictivas
+  - Aplican tecnicas de machine learning
+  - Elementos
+    - Dispositivos
+    - Datos
+    - Red
+    - Analisis
+- Big Data
+  - Los datos son un activo fundamental
+  - Analizar variables intrínsecas y extrínsecas
+  - Contribuye a la toma de decisiones en tiempo real
+  - Origenes de datos
+    - ERP
+    - Sensores IoT
+    - Sistemas expertos
+    - Hojas de calculo
+    - Bases de datos
+    - Redes sociales
+  - Analisis de datos
+    - Preparación
+    - Data mining o minería de datos
+    - Machine learning
+  - Ventajas
+    - Optimizar procesos
+    - Enfocar producciones
+    - Recoger datos de todas las fuentes
+    - Analizar impacto de campañas
+    - Predecir y mitigar riesgos
+- Otros
+  - Blockchain
+  - Realidad aumentada
+  - Realidad virtual
+  - Edge computing
 
 ## 1.6. Gestión de recursos humanos
 

@@ -1,0 +1,14 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{\numberline {1}Análisis del sector}{4}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Productos ofertados}{4}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Mercado objetivo}{4}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Materias primas}{5}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Proveedores}{5}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Cinco fuerzas de Porter}{5}{section.1.5}%
+\contentsline {section}{\numberline {1.6}Competidores}{6}{section.1.6}%
+\contentsline {chapter}{\numberline {2}Diseño del sistema de gestión}{7}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Estructura empresarial}{7}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Procesos}{7}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Usuarios}{7}{section.2.3}%
+\contentsline {chapter}{\numberline {3}Implementación de la solución}{8}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Presentación de los resultados}{9}{chapter.4}%
