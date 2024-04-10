@@ -12,9 +12,9 @@
     - [1.1.8. Enfoque de desarrollo](#118-enfoque-de-desarrollo)
     - [1.1.9. Éxito y fracaso de los sistemas de información](#119-éxito-y-fracaso-de-los-sistemas-de-información)
   - [1.2. Los sistemas de información de las organizaciones](#12-los-sistemas-de-información-de-las-organizaciones)
-  - [1.3. Soluciones integradas para la planificación de recursos](#13-soluciones-integradas-para-la-planificación-de-recursos)
-  - [1.4. Gestión de la relaciones con los clientes](#14-gestión-de-la-relaciones-con-los-clientes)
-  - [1.5. Gestión de la cadena de suministro](#15-gestión-de-la-cadena-de-suministro)
+  - [1.3. ERP - Soluciones integradas para la planificación de recursos](#13-erp---soluciones-integradas-para-la-planificación-de-recursos)
+  - [1.4. CRM - Gestión de la relaciones con los clientes](#14-crm---gestión-de-la-relaciones-con-los-clientes)
+  - [1.5. SCM - Gestión de la cadena de suministro](#15-scm---gestión-de-la-cadena-de-suministro)
     - [1.5.1. ¿Qué es la gestión de la cadena de suministro?](#151-qué-es-la-gestión-de-la-cadena-de-suministro)
     - [1.5.2. Evolucón de la gestión de la cadena de suministro](#152-evolucón-de-la-gestión-de-la-cadena-de-suministro)
     - [1.5.3. Flujo de información](#153-flujo-de-información)
@@ -23,7 +23,7 @@
     - [1.5.6. SCM en la empresa](#156-scm-en-la-empresa)
     - [1.5.7. Modulos de un SCM](#157-modulos-de-un-scm)
     - [1.5.7. Industria 4.0, Cloud, IoT, Big Data y otras tecnologías relacionadas con la SCM](#157-industria-40-cloud-iot-big-data-y-otras-tecnologías-relacionadas-con-la-scm)
-  - [1.6. Gestión de recursos humanos](#16-gestión-de-recursos-humanos)
+  - [1.6. HCM - Gestión de recursos humanos](#16-hcm---gestión-de-recursos-humanos)
     - [1.6.1. ¿Qué es la gestión de recursos humanos?](#161-qué-es-la-gestión-de-recursos-humanos)
     - [1.6.2. Funciones de la gestión de recursos humanos](#162-funciones-de-la-gestión-de-recursos-humanos)
     - [1.6.3. Gestión de recursos humanos en la empresa](#163-gestión-de-recursos-humanos-en-la-empresa)
@@ -211,11 +211,13 @@
 
 ## 1.2. Los sistemas de información de las organizaciones
 
-## 1.3. Soluciones integradas para la planificación de recursos
+## 1.3. ERP - Soluciones integradas para la planificación de recursos
 
-## 1.4. Gestión de la relaciones con los clientes
+## 1.4. CRM - Gestión de la relaciones con los clientes
 
-## 1.5. Gestión de la cadena de suministro
+
+
+## 1.5. SCM - Gestión de la cadena de suministro
 
 ### 1.5.1. ¿Qué es la gestión de la cadena de suministro?
 
@@ -310,11 +312,110 @@
   - Un plan maestro de producción
   - Cuanto y como se va a producir
   - Proporciona informacion mientras el producto se encuentra en la linea de producción
+  - Evolución Historica
+    - Origen Material Requirement Planning
+    - Se desarrolan sistemas de calculo para saber los recursos necesarios
+    - Permiten determinar la cantidad y el momento de compra de los materiales
+    - En los 80 no habia capcidad para ejecutar MRP
+    - Los avances tecnologicos dan pie a los ERP
+  - Objetivos
+    - Reducir inventarios
+    - Disminuir tiempo de espera
+    - Incrementar la eficiencia
+    - Planificar a largo plazo
+    - Mejorar tiempos de respuesta
+    - Ver obligaciones reales
+  - Beneficios
+    - Produccion
+      - Mejor control del stock
+      - Prevenir errores en el aprovisionamiento
+      - Mejorar planificación
+      - Incremento de la productividad
+      - Relaciones con los proveedores
+    - Diseño/Ingenieria
+      - Mejorar diseño
+      - Mejorar calidad los controles
+    - Finanzas/contabilidad
+      - Reducir horas de trabajo
+      - Mejorar ingresos
+      - Conocer inventario exacto
+    - Ventas
+      - Satisfacción del cliente
+      - Incremento de rapidez de entrega
 - PLM: Product Lifecycle Management
+  - Gestión del ciclo de vida del producto
+  - Recopilar información para coordinar el desarrollo de los productos
+  - Fases
+    - Todas las fases deben estar conectadas
+      - Concepción
+      - Diseño
+      - Realización
+      - Servicio
+    - Es necesario la colaboración de mucho personal
+  - Beneficios
+    - Reducir el tiempo de salida al mercado
+    - Incrementar margenes de beneficio
+    - Mejorar la calidad del producto
+    - Reducir costes prototipos
+    - Generación de presupuestos
+    - Identificar oportunidades de ventas
+    - Ahorrar por reutilización
+    - Entorno optimizado
+    - Reducir desperdicios
+    - Integración de los workflows de ingenieria
+    - Gestión de fluctuaciones
+    - Mejora de los pronosticos para reducir costes
+    - Maximizar la colaboracion con la cadena de suministro
 - MES: Manufacturing Execution System
+  - Control de la Producción
+  - Aumentar la eficiencia
+  - Reducir costes
+  - Mejorar productividad
+  - Aumentar la trazabilidad y la calidad
+  - Información de la producción en tiempo real
+  - Crucial para Industria 4.0
+  - Integra y centraliza la información de todos los procesos de fabricacion
+  - Gran ayuda para la toma de decisiones y reducir costes de producción
+  - Mejoran la gestion de la calidad
+  - Ventajas:
+    - Buena definicion de los procesos
+    - Incremento eficiencia y productividad
+    - Agiliza la cadena de suministro
+    - Reduce tiempos y costes de fabricación
+    - Reduco uso de papel
+    - Mejora las operaciones
+    - Rentabiliza coste por personal
+    - Optimiza consumo energetico
 - Ventas
 - Contabilidad
+  - Funcionalidades
+    - Gestion de cuentas
+      - Almacenar, organizar y clasificar la información financiera
+    - Generacion y registro de comprobantes
+      - Generar documentacion para presentar a la administración publica
+    - Conciliacion bancaria
+      - Comparar extractos bancarios con los registros contables
+    - Organizar inventario
+      - Tener control del stock
+    - Contabilidad analitica
+      - Llevar una contabilidad de costes
+    - Gestion de vencimientos
+      - Conocer las deudas y los pagos pendientes
+  - Beneficios
+    - No duplicar datos
+    - Evitar errores
+    - Informes completos
+    - Automatizar los flujos de trabajo
+    - Mejor control del negocio
 - Inventario
+  - Permite conocer los procesos del almacen
+  - Permite saber todo el recorrido que realiza la mercancia hasta que sale del almacen
+  - Permite controlar la condiciones de la mercancia
+  - Aprovechar el espacio del almacen
+  - Ventajas
+    - Reducir costes
+    - Optimizar el tiempo de trabajo
+    - Observar la trazabilidad
 
 ### 1.5.7. Industria 4.0, Cloud, IoT, Big Data y otras tecnologías relacionadas con la SCM
 
@@ -393,7 +494,7 @@
   - Realidad virtual
   - Edge computing
 
-## 1.6. Gestión de recursos humanos
+## 1.6. HCM - Gestión de recursos humanos
 
 ### 1.6.1. ¿Qué es la gestión de recursos humanos?
 
