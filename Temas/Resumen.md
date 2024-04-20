@@ -13,6 +13,19 @@
     - [1.1.9. Éxito y fracaso de los sistemas de información](#119-éxito-y-fracaso-de-los-sistemas-de-información)
   - [1.2. Los sistemas de información de las organizaciones](#12-los-sistemas-de-información-de-las-organizaciones)
   - [1.3. ERP - Soluciones integradas para la planificación de recursos](#13-erp---soluciones-integradas-para-la-planificación-de-recursos)
+    - [1.3.1. Evolucion Historica](#131-evolucion-historica)
+    - [1.3.2. Definición de ERP](#132-definición-de-erp)
+    - [1.3.3. Objetivos de un ERP](#133-objetivos-de-un-erp)
+    - [1.3.4. Mercado de ERP](#134-mercado-de-erp)
+    - [1.3.5. Por que implantar un ERP](#135-por-que-implantar-un-erp)
+    - [1.3.6. Ventajas de un ERP](#136-ventajas-de-un-erp)
+    - [1.3.7. Inconvenientes de un ERP](#137-inconvenientes-de-un-erp)
+    - [1.3.8. Ventajas por departamentos](#138-ventajas-por-departamentos)
+    - [1.3.9. Características de un ERP](#139-características-de-un-erp)
+    - [1.3.10. Ciclo de vida](#1310-ciclo-de-vida)
+    - [1.3.11. Modulos](#1311-modulos)
+    - [1.3.12. Como elegir un ERP](#1312-como-elegir-un-erp)
+    - [1.3.14. ¿Por que fracasan los ERP?](#1314-por-que-fracasan-los-erp)
   - [1.4. CRM - Gestión de la relaciones con los clientes](#14-crm---gestión-de-la-relaciones-con-los-clientes)
     - [1.4.1. ¿Qué es la gestión de la relación con los clientes?](#141-qué-es-la-gestión-de-la-relación-con-los-clientes)
     - [1.4.2. Mercado de CRM](#142-mercado-de-crm)
@@ -23,7 +36,7 @@
     - [1.4.7. Criterios de selección de un CRM](#147-criterios-de-selección-de-un-crm)
     - [1.4.8. Implantación de un CRM](#148-implantación-de-un-crm)
     - [1.4.9. Relación entre CRM y ERP](#149-relación-entre-crm-y-erp)
-    - [1.4.8. Beneficios de un CRM](#148-beneficios-de-un-crm)
+    - [1.4.10. Beneficios de un CRM](#1410-beneficios-de-un-crm)
   - [1.5. SCM - Gestión de la cadena de suministro](#15-scm---gestión-de-la-cadena-de-suministro)
     - [1.5.1. ¿Qué es la gestión de la cadena de suministro?](#151-qué-es-la-gestión-de-la-cadena-de-suministro)
     - [1.5.2. Evolucón de la gestión de la cadena de suministro](#152-evolucón-de-la-gestión-de-la-cadena-de-suministro)
@@ -223,6 +236,238 @@
 
 ## 1.3. ERP - Soluciones integradas para la planificación de recursos
 
+### 1.3.1. Evolucion Historica
+
+- Origen en la segunda guerra mundial
+  - Para gestionar los materiales en el frente MRP
+- Años 70
+  - Los MRP se introducen en las empresas para reducir costes mediante el control de los inventarios y ajustar la demanda
+- Años 80
+  - Los MRP evolucionan a MRP II incluyendo gestionar los factores de la capacidad de manufactura
+- Años 90
+  - Las empresas necesitan integrar los sistemas de información
+  - Nace el ERP como respuesta
+
+### 1.3.2. Definición de ERP
+
+- ERP - Enterprise Resource Planning
+- Aplicacion de gestion que cubre todas las areas de la empresa
+- Todas las tareas y procesos se planifican como circuitos de trabajo (donde uno empieza otro termina)
+- Tiene varios modulos para resolver las necesidades de la empresay coordinar los procesos creando un flujo de informacion entre los usuarios
+- Une:
+  - Dashboard con informacion en tiempo real
+  - CRM y ventas
+  - Portales web
+  - Distribucion
+  - Facturacion
+  - Finanzas
+  - Compras
+
+### 1.3.3. Objetivos de un ERP
+
+- Coordinar los negocios de la empresa
+- Centralizar la informacion ayudando asi al flujo de informacion
+
+### 1.3.4. Mercado de ERP
+
+- Oracle JD Edwards
+- SAP
+- Odoo
+- Microsoft Dynamics AX
+- Sage
+- Navision
+- Infor
+- Solmicro
+
+### 1.3.5. Por que implantar un ERP
+
+- Alcanzar los niveles de eficiencia que pide un entorno globalizado
+  - Optimizar los costes
+  - Incrementar la productividad
+- Aumentar la competitividad
+- Manejar la informacion es critico
+  - Integrar la informacion de toda la organizacion de forma accesible para todo el mundo
+  - Ayuda a la toma de decisiones
+- Flexibilidad e interactivo para obtener y manipular la informacion
+  - Mejorar la comunicacion
+  - Reduce informacion poco fiable
+  - Reduce informacion duplicada
+
+### 1.3.6. Ventajas de un ERP
+
+1. Integración de la cadena de suministro, producción y proceso administrativo.
+2. Creación de una base de datos común.
+3. Mejora en el rediseño de los procesos.
+4. Reducción de costes.
+5. Agilización en las operaciones del negocio.
+6. Ventajas competitivas y estrategia del negocio.
+7. Incremento de comunicación ycolaboración corporativa.
+8. Sirve de plataforma o base de implementación al comercio electrónico.
+
+- Beneficio economico
+  - Mejora la gestion
+  - Incrementa la rentabilidad
+- Beneficio productivo
+  - Mejora la eficiencia y capacidad operativa
+  - Mayor retabilidad del negocio
+- Beneficio organizativo
+  - Mejora la comunicacion
+  - Mejora la toma de decisiones
+
+### 1.3.7. Inconvenientes de un ERP
+
+- Larga implantación
+- Bugs que provocan deficiencias
+- Dificil actualización
+- Dependecia de proveedores
+- Falta de formación
+- Coste elevado
+
+### 1.3.8. Ventajas por departamentos
+
+- Contabilidad y finanzas
+  - Permite a los encargados tener mayor control de los costos, horas trabajadas, control del flujo efectivo y cuentas bancarias, cuentas por pagar y generación de depósitos, cierre de periodos en forma rápida ahorrándose tiempo.
+- Control de inventarios
+  - Optimiza el control de inventarios ordenando los productos en series, lotes, fecha de producción y caducidad.
+- Manufactura
+  - Las operaciones que se gestiona, control de la planta de producción, creación de pronósticos de producción y su calendarización.
+- Direccion
+  - Los ERPs proporcionan una visión más ejecutiva de los instrumentos de medición como el flujo de efectivo: Producción y reportes de gastos e inversiones, ventas por regiones y su totalidad.
+- Compras
+  - Actividad relacionada con el plan de promoción, el término JIT, comprar al proveedor adecuado con el precio adecuado y el momento adecuado.
+
+### 1.3.9. Características de un ERP
+
+- Integrales
+  - Controlar todos los procesos y departamentos entre si
+- Modulares
+  - Entienden que la empresa esta formada por diferentes departamentos
+- Adaptables
+  - Se adaptan a la estructura de la empresa
+
+### 1.3.10. Ciclo de vida
+
+- Planificacion
+  - Se dan cuenta de la necesidad de un ERP
+  - Se realiza un analisis de la empresa y su estado
+  - Se diseña una estrategia, se establecen roles y se asignan recursos para cada etapa
+- Seleccion de paquetes
+  - Dado que los ERP son modulares se seleccionan los paquetes especializados que va a necesitar la empresa
+  - He incluso se ajustan estos paquetes a las necesidades de la empresa
+- Analisis GAP
+  - Se compara la situacion actual con la futura
+  - Se indetifican los riesgos y las necesidades de la empresa
+- Reingenieria de procesos
+  - Se reestructuran los procesos de la empresa
+  - La mejora se ve en el medio y largo plazo
+- Pruebas
+  - Gran importancia para al funcionalidad
+  - Permite encontrar errores
+- Formacion
+  - Luchas contra la resistencia al cambio
+  - Facilitar la puesta en marcha
+- Implantacion
+  - Pasar el sistema a produccion
+- Manteimiento
+  - Mantenimiento contiuo
+  - Actualizaciones
+
+### 1.3.11. Modulos
+
+- Basicos
+  - Las funcionalidades mas basicas
+  - Son:
+    - Contabilidad/Finanzas
+      - Actividad economica de la empresa
+      - Presupueistos, contabilidad, gatos, cuentas, pagos, impuestos...
+    - Produccion/Inventario
+      - Planificar la fabricaciones y la gestion de almacenes
+    - Compras
+    - CRM
+      - Gestiona la relacion con los clientes
+    - Ventas
+      - Toda actividad comercial
+      - En ocasiones se integra con el CRM
+    - Recursos Humanos
+      - Gestion de personal
+- Opcionales
+  - Prestaciones complementarias
+  - Son:
+    - Marketing
+    - Analisis de negocio
+    - Gestion de proyectos
+    - Gestion de ciclo de vida del producto (PLM)
+    - Comercio electronico
+    - Gestion documental
+    - Sistemas de marcaje
+- Verticales
+  - Modulos especializados para el sector de la empresa
+  - Menor oferta
+  - Mayores costes
+  - Menos flexibles
+  - Soporte limitado
+
+### 1.3.12. Como elegir un ERP
+
+Principiantes:
+
+1. Precio
+2. Facilidad de implementación
+3. Facilidad de uso
+4. Ajuste del software al negocio
+5. Funcionalidad del software
+6. Compatibilidad del software con el hardware existente
+7. Potencial crecimiento del software
+8. Nivel de soporte proporcionado por el socio implementador
+9. Calidad de la documentación
+10. Trayectoria del fabricante de software
+
+Experimentados:
+
+1. Nivel de soporte proporcionado por el socio implementador
+2. Trayectoria del fabricante de software
+3. Ajuste del software al negocio
+4. Potencial crecimiento del software
+5. Precio
+6. Calidad de la documentación
+7. Funcionalidad del software
+8. Facilidad de uso
+9. Facilidad de implementación
+10. Compatibilidad del software con el hardware existente
+
+### 1.3.14. ¿Por que fracasan los ERP?
+
+- Falta de compromisos
+  - Delegar
+  - Falta de tiempo y recursos
+- Mala definicion de los requerimientos
+  - Falta de entendimiento
+  - Mala planificacion previa
+  - No tener equipos implicados
+- Uso de recursos inadecuados
+  - Recortes de inversion
+  - No tratar el ERP como infraestructura critica
+- Resistencia al cambio
+  - Falta de comunicacion
+  - Deficiente gestion del cambio
+- Errores de calculo
+  - Creer que un ERP es solo instalar software
+- Falta de adaptacion del software
+  - Mala eleccion de la tecnologia
+  - No adaptar el software a la empresa
+- Tratarlo como un proyecto de TIC
+  - No es solo para informaticos
+  - No solo debe reicibir recursos de tecnologia e infraestructuras, es necesario capital humano
+- Falsas expectativas
+  - Falta de entendidmiento o conocimiento llevan a expectativas erroneas de beneficios
+  - Se debe entender el coste total
+- Falta de formacion
+  - No formar a los empleados
+- Deficiente gestion y diseño
+  - No detectar los eventos y riesgos
+- Pruebas insuficientes
+  - No probar el sistema
+
 ## 1.4. CRM - Gestión de la relaciones con los clientes
 
 ### 1.4.1. ¿Qué es la gestión de la relación con los clientes?
@@ -399,7 +644,7 @@
 - Mayor visibilidad y predicciones
 - Incremento de los beneficios
 
-### 1.4.8. Beneficios de un CRM
+### 1.4.10. Beneficios de un CRM
 
 - Aumento de fidelidad
 - Ahorro de tiempo
