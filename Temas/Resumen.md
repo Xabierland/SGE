@@ -12,6 +12,20 @@
     - [1.1.8. Enfoque de desarrollo](#118-enfoque-de-desarrollo)
     - [1.1.9. Éxito y fracaso de los sistemas de información](#119-éxito-y-fracaso-de-los-sistemas-de-información)
   - [1.2. Los sistemas de información de las organizaciones](#12-los-sistemas-de-información-de-las-organizaciones)
+    - [1.2.1. Introducción](#121-introducción)
+    - [1.2.2. Procesos de negocio](#122-procesos-de-negocio)
+    - [1.2.3. Estructura](#123-estructura)
+    - [1.2.4. La organización](#124-la-organización)
+    - [1.2.5. Fuerzas y estrategias competitivas](#125-fuerzas-y-estrategias-competitivas)
+    - [1.2.6. Estrategias](#126-estrategias)
+    - [1.2.7. Cadena de valor de Porter](#127-cadena-de-valor-de-porter)
+    - [1.2.8. Informatica en la organización](#128-informatica-en-la-organización)
+    - [1.2.9. Ventajas competitivas](#129-ventajas-competitivas)
+    - [1.2.10. La organización y los sistemas de información](#1210-la-organización-y-los-sistemas-de-información)
+    - [1.2.11. Diseño de la organización](#1211-diseño-de-la-organización)
+    - [1.2.12. Areas funcionales](#1212-areas-funcionales)
+    - [1.2.13. Sistemas de información para cada nivel](#1213-sistemas-de-información-para-cada-nivel)
+    - [1.2.14. Sistemas de información integrales](#1214-sistemas-de-información-integrales)
   - [1.3. ERP - Soluciones integradas para la planificación de recursos](#13-erp---soluciones-integradas-para-la-planificación-de-recursos)
     - [1.3.1. Evolucion Historica](#131-evolucion-historica)
     - [1.3.2. Definición de ERP](#132-definición-de-erp)
@@ -233,6 +247,351 @@
 - Nula formación del personal
 
 ## 1.2. Los sistemas de información de las organizaciones
+
+### 1.2.1. Introducción
+
+- Los SI buscan mejorar la empresa formando parte de la estructura de la misma.
+
+### 1.2.2. Procesos de negocio
+
+- Reglas, procedimientos y prácticas que se han desarrollado para enfrentar prácticamente cualqueir situación que surja.
+- Rutinas de producción
+- La empresa en si es un cojunto de procesos
+- Asociados a areas funcionales
+- Pueden ser transversales
+
+### 1.2.3. Estructura
+
+- La estructura de la organizacion se refleja en los sistemas de información
+- Niveles de decisión
+  - Alta dirección
+  - Gerentes intermedios
+  - Gerentes de operaciones
+  - Personal de operaciones
+- Clasificación de Mintzberg
+  - Empresario o emprendedor
+    - Muy variado
+    - Unico administrador
+    - Empresa pequeña
+  - Burocracia mecánica
+    - Entornos lentos
+    - Equipos centralizados
+    - Empresa de manufactura media
+  - Burocracia con divisiones
+    - Combinación de burocracias
+    - Oficinas centrales
+    - Gran empresa
+  - Burocracia profesional
+    - Basado en el conocimiento y la experiencia
+    - Departamentos centralizados debiles
+    - Bufetes, escuelas, hospitales
+
+### 1.2.4. La organización
+
+- Esfuerzo conjunto
+- Es necesario un objetivo
+  - Beneficios
+  - Condiciones de trabajo
+  - Sociedad
+- Es necesaria la rentabilidad
+  - Mejorar eficacia
+    - Tener unos grados de cumplimiento
+    - Usar sistemas que permitan un control de la información de los procesos
+    - Sistemas que faciliten la propia realización de los procesos
+    - Ejemplos:
+      - Procesadores de texto
+      - Videoconferencias
+      - Tablets
+      - Hojas de cálculo
+      - Correos electrónicos
+  - Mejorar eficiencia
+    - Busca cumplir los objetivos con el menor coste posible
+    - Permiten ahorrar costos
+    - Reducir los labores manuales
+    - Reducir el espacio fisico
+    - Ejemplos:
+      - Procesadores de texto
+      - Videoconferencias
+      - Tablets
+      - Hojas de cálculo
+      - Correos electrónicos
+      - Sistemas de control de la producción
+      - Pasarelas de pago
+      - Tramites online
+  - Obtener ventaja competitiva
+    - Diferenciarse de la competencia
+    - Obtener resultados superiores
+    - No son herramientas
+    - Ejemplos:
+      - Mejoras en los procesos
+      - Ofrecen oportunidades de negocio
+      - Transforman el sector
+
+### 1.2.5. Fuerzas y estrategias competitivas
+
+- Fuerzas competitivas de Porter
+  - Permite analizar cualqueir industria en términos de rentabilidad y definir una estrategia competitiva
+  - Ofrece un panorama general de la empresa
+  - Cinco fuerzas
+    - Rivalidad entre competidores
+      - Formas nuevas y eficientes de producir
+      - Nuevos servicios y productos
+      - Estrategias de fidelización
+    - Amenaza de nuevos participantes
+    - Productos y servicios sustitutos
+      - Casi todos los productos y servicios tienen sustitutos
+      - La nuevas tecnologías crean sustitutos constantemente
+      - Esto significa menos control del precio y menor margen de beneficio
+    - Poder de negociación de los clientes
+      - La rentabilidad depende de atraer y mantener clientes con precios altos
+      - Esto permite poder cambiar los productos y servicios y poder de negociación
+      - Mercados mas trasparentes y poco diferenciados
+    - Poder de negociación de los proveedores
+      - Depender de un proveedor puede ser peligroso
+      - Menos proveedores significa menos poder de negociación, materias mas caras y menos rentabilidad
+      - Diversificar para evitarlos
+
+### 1.2.6. Estrategias
+
+- Liderazgo de costes bajos
+  - Ofrecer productos o servicios a un precio mas bajo que la competencia
+  - Mantener la calidad
+  - Encontrar forma de reducir costes
+  - Incrementar los costes de los competidores
+    - Patentes
+    - I+D
+    - Certificaciones
+  - Usar SI
+  - Sistemas de respuestas eficientes a clientes
+  - Ofrecer facilidades a los clientes y proveedores
+  - Digitalizar
+- Diferenciación
+  - Crear productos o servicios únicos
+  - Reducir las ventajas de los competidores
+  - Especializarse en nichos de mercado
+    - Especializarse
+    - Usar los datos para utilizarlos en ventas y marketing
+    - Analizar patrones de compra
+    - Administrar las relaciones con los clientes
+  - La ventaja acaba si otros te copian y superan
+  - Ofrecer comodidad al clientes
+  - Personalizar los productos y servicios
+- Innovación
+  - Cambios draticos en los procesos
+  - Hallar nuevas formas de hacer negocios
+    - Streaming
+  - Mejorar realemente los productos o servicios
+- Crecimiento
+  - Amplicar la capacidad para producir
+  - Extender a mercados globales
+  - Diversificar los productos y servicios
+  - Generar nuevos productos y servicios
+- Alianzas
+  - Establecer vincluos y alianzas de negocios
+
+### 1.2.7. Cadena de valor de Porter
+
+- Actividades especificas y criticas por las que empezar
+
+![Cadena de Valor de Porter](.img/img2.png)
+![Cadena de Valor de Porter](.img/img3.png)
+![Cadena de Valor de Porter](.img/img4.png)
+
+### 1.2.8. Informatica en la organización
+
+- Transforman las relaciones tanto dentro como fuera de la empresa
+- Modifican las relaciones entre departamentos
+- Modifica los procesos para hacerlos mas eficientes y rentables
+- Se generan nuevos procesos y relaciones
+
+### 1.2.9. Ventajas competitivas
+
+- Infraestructura de la empresa
+  - Correo electrónico
+  - Tablones de anuncios
+  - Manuales de empresa
+  - Directorios y agendas
+  - Normativa interna
+  - Procesos de calidad
+  - Información comercial
+  - Información de producción
+  - Formación a distancia
+- Gestion de Recursos Humanos
+  - Programación automática de la mano de obra
+  - Sistemas expertos como apoyo a la formación
+  - Cálculo de costes de servicios prestados
+  - Nóminas
+- Desarrollo tecnológico
+  - CAD
+  - Gestión del conocimiento
+  - Investigación electrónica de mercados
+- Aprovisionamiento
+  - Compra online o por EDI
+  - Catálogos electrónicos
+  - Enlaces directos con proveedores
+- Logistica interna
+  - Automatización de almacenes
+  - Eliminación de almacenes, producción bajo demanda
+  - Utilización de tablets y móviles para comunicarse via email liquidaciones electronicas de gatos.
+- Operaciones
+  - Produccion flexible asistida por ordenador
+  - Produccion bajo demanda
+- Logistica externa
+  - Tratamiento automatico de pedidos
+- Marketing y ventas
+  - Venta a distancia
+  - Terminales punto de venta
+  - CRM, marketing direccionado
+  - Materiales de presentacion de productos y base de datos de investigacion de mercados y competidores donde se puedan efectuar busquedas.
+- Servicios
+  - Atencion al cliente
+  - Analisis de datos
+  - Gestion y programacion de incidencias
+
+### 1.2.10. La organización y los sistemas de información
+
+- No hay dos organismos iguales
+- La estructura o diseño de la organización establece como se realiza el trabajo rutinario y cuales son las lineas de autoridad y responsabilidad
+
+### 1.2.11. Diseño de la organización
+
+- Modelos
+  - Modelo jerarquico
+    - Estructura piramidal
+    - Cada nivel tiene por encima a un ejecutivo de mayor rango
+    - Clasica y habitual con muchos empleados abajo y pocos arriba
+    - Principios como unidad de mando, division del trabajo y limite de autoridad
+    - La comunicación es vertical
+  - Estructura del proyecto
+    - Requiere coordinacion, reorganizacion y reagrupamiento entre proyectos.
+    - No hay una linea de mando clara ni asignacion del personal.
+  - Modelo matricial
+    - Mezcla de los dos anteriores
+    - Tanto estructura horizontal como vertical
+    - Permite un amplio poder de control y la division del mando y la responsabilidad
+- Implicaciones
+  - A la hora de desarrollar un SI hay que tener en cuenta la estructura de la organización
+  - En el modelo jerarquico es importante respetar los niveles de autoridad
+  - En las estructuras de proyecto se requirer flexibilidad
+  - Y en las matriciales flexibilidad y compartir informacion
+- Organización formal
+  - La que aparece en el organigrama
+  - Existen normas y procedimientos que describen la estructura
+- Organización informal
+  - La que no aparece en el organigrama
+  - Mas realista
+  - Se puede llegar a establecer contanto directo
+  - Dificulta el SI
+
+### 1.2.12. Areas funcionales
+
+- Areas
+  - Manufactura y producción
+    - Producir bienes y servicios
+    - Encargada de las instalaciones
+    - Encargada de los materiales
+    - Encargada de la mano de ogra
+  - Ventas y marketing
+    - Vender productos y servicios
+    - Identificar a los clientes
+    - Determinar necesidades y deseos
+    - Diseñar productos y servicios
+    - Anunciar y promover
+  - Finanzas y contabilidad
+    - Administrar las finanzas maximizando redimiento
+    - Buscar activos financieros
+    - Mejorar el rendimiento
+    - Recopilar informacion externa
+    - Administrar registros financieros
+    - Flujos de fondos
+    - Generar informes financieros
+  - Recursos humanos
+    - Atraer,desarrolar y mantener al trabajador
+    - Identificar empleados potenciales
+    - Gestionar los registros de los empleados
+    - Desarrollar aptitudes y habilidades
+  - Piramide de la organización
+    - Un SI no puede cubrir toda la necesidad de la empresa
+    - Tres niveles
+      - Operativo
+        - Actividades diarias y corto plazo
+        - Informacion rutinaria
+      - Tactico
+        - Control, ayuda a la toma de decisiones y actividades administrativas en medio plazo
+        - Informacion de estadisticas, periodicos...
+      - Estratégico
+        - Ayuda con el efoque de la lineas maestras de la empresa a largo plazo
+        - Informes generales y abstractos
+        - Gran incertidumbre y riesgos
+- Implicaciones
+  - Las decisiones estrategicas dependen de la informacion externa de naturaleza predictiva
+  - Los mandos intermedios sobre todo necesitan informacion actual e historica
+  - Las decisiones operativas usan informacion interna a tiempo real y de bajo nivel
+
+### 1.2.13. Sistemas de información para cada nivel
+
+- Operativo
+  - Automatizan las actividades rutinarias
+    - Sistemas de procesamiento de transacciones (TPS)
+      - Dar segimiento a las transacciones
+      - Ejecuitar y registrar las transacciones
+      - Lectores de codigos de barra
+      - Registran gran volumen de transacciones
+      - Ahorra trabajo manual, calculos y errores
+      - Tipos
+        - Por lotes
+          - Se acumulan las transacciones y se procesan en un momento determinado
+        - En linea
+          - Se procesan las transacciones en el momento en que se producen
+        - Con retardo
+          - Punto intermedio entre los dos anteriores
+- Tactico
+  - Apoyo para la toma de decisiones
+    - Sistemas de Informacion Gerencial MIS
+      - Procesan resumen y presentan la informacion
+      - Favorecen las funciones de planificacion, control y toma de decisiones
+      - Orientado al control interno
+        - Generan informes y resumenes
+        - Basados en datos internos
+        - Generan informes de excepciones automaticamente
+      - Poco flexibles
+      - Poca capacidad de analisis
+    - Sistemas de Soporte a la toma de decisiones DSS
+      - Generan informacion para la toma de decisiones
+      - No hay procedimientos preestablecidos
+- Estrategicos
+  - Aportan ventaja competitiva
+    - Sistemas de Informacion para la Direccion (EIS)
+      - Uso de alta direccion
+      - Tambien llamados ESS - Executive Support Systems
+      - Estrategia a largo plazo
+      - Ayuda en innovacion de productos y procesos dentro de la empresa logrando ventaja competitiva
+      - Ayuda en la toma de decision no rutinaria
+      - Se alimenta de los MIS y DSS
+      - Filta y sintetiza datos criticos
+    - Business Intelligence
+      - Cojunto de metodologias aplicaciones y tecnologias
+      - Reunir depurar y transformar datos en informacion
+      - Reportes, OLAP, Data Mining, Dashboards
+      - Dan soporte a la toma de decisiones
+
+### 1.2.14. Sistemas de información integrales
+
+- Dan respuesta a como manejar, distribuir, coordinar y compartir la informacion
+  - ERP - Enterprise Resource Planning
+    - Recopilan, almacenan y gestionan datos de muchas actividades de la empresa
+    - Facilita la coordinacion de las actividades de la empresa
+    - Flexibles y adaptables
+    - Informacion de toda la empresa
+  - SCM - Supply Chain Management
+    - Cuanto, cuando y como producir
+    - Seguimiento de los pedidos
+    - Reducir costes de inventario
+  - CRM - Customer Relationship Management
+    - Administrar las relaciones con los clientes
+    - Ventas, marketing, servicio al cliente
+  - KMS - Knowledge Management Systems
+    - Recolectar, almacenar, distribuir y aplicar el conocimiento
 
 ## 1.3. ERP - Soluciones integradas para la planificación de recursos
 
