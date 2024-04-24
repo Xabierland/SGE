@@ -140,8 +140,8 @@
 
 - Los objetivos de un ERP son:
   - a. Descentralizar la información para evitar los puntos de fallo y separar la información por áreas funcionales.
-  - b. Centralizar la base de datos ayudando a que el flujo de información circule por las diversas áreas de la empresa
-  - **c. Ambas son correctas**
+  - **b. Centralizar la base de datos ayudando a que el flujo de información circule por las diversas áreas de la empresa**
+  - c. Ambas son correctas
   - d. Ninguna es correcta
 - Un módulo vertical para un ERP es:
   - **a. Es un módulo especializado en un sector económico o industrial concreto.**
