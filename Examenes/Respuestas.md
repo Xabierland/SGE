@@ -226,9 +226,9 @@
   - d. Ninguna de las anteriores.
 - El origen de los MRPs:
   - a. Es la carrera espacial de los años 60
-  - b. Es militar desde la 2ª Guerra Mundial.
+  - **b. Es militar desde la 2ª Guerra Mundial.**
   - c. Se basa en la gestión de suministro naval de la Marina.
-  - **d. Todas las anteriores.**
+  - d. Todas las anteriores.
 - Un sistema de Gestión de la Cadena de Suministro (SMC – Supply Chain Mangement):
   - **a. Sirve para decidir cuándo y qué producir, almacenar y desplazar, realiza el seguimiento de los pedidos e integra y automatiza la red de procesos y relaciones de negocio entre una empresa y sus proveedores, clientes, distribuidores y otros socios de negocio.**
   - b. Ayuda a realizar las campañas de marketing individualizado, analizando el valor del cliente.
