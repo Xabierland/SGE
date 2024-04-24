@@ -539,9 +539,9 @@
       - Registran gran volumen de transacciones
       - Ahorra trabajo manual, calculos y errores
       - Tipos
-        - Por lotes
+        - Por lotes (Batch)
           - Se acumulan las transacciones y se procesan en un momento determinado
-        - En linea
+        - En linea (OLTP)
           - Se procesan las transacciones en el momento en que se producen
         - Con retardo
           - Punto intermedio entre los dos anteriores

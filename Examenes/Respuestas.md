@@ -1,0 +1,305 @@
+# Preguntas de Examenes
+
+## Tema 1 - Sistema de Información (SI)
+
+- La materia prima de cualquier sistema de información es/son:
+  - **a. Los datos**
+  - b. El conocimiento
+  - c. La información
+  - d. Ninguna de las anteriores
+- ¿En qué consiste la etapa de contagio en la evolución de los sistemas de información en el entorno empresarial?
+  - a. Los sistemas de información de una empresa se ven paulatinamente infectados por un virus que anula su funcionalidad y detiene el funcionamiento de la empresa.
+  - b. Los problemas en la implantación y la falta de formación de los usuarios contagian a otros departamentos, que desisten de su instalación hasta que las infraestructuras y el conocimiento mejoren.
+  - **c. Tras observar los beneficios de la aplicación de los SI en algunas áreas de la empresa, su implantación se difunde por los demás departamentos de la empresa, sin ninguna planificación, por lo que aumentan los costes.**
+  - d. Ninguna de las anteriores
+- Los componentes de un sistema de información son:
+  - **a. Equipamiento, usuarios, procesos y datos**
+  - b. Datos, proveedores, clientes y usuarios
+  - c. Datos, procesos, clientes y equipamiento
+  - d. Ninguna de las anteriores
+- Un sistema de información integra:
+  - a. Datos, proveedores, administración y clientes.
+  - b. Datos, clientes, proveedores y distribuidores.
+  - **c. Personas, procesos, tecnología y datos.**
+  - d. Todas las anteriores.
+- El conocimiento:
+  - **a. Es la combinación de información y contexto/experiencia.**
+  - b. Permite tomar decisiones automatizadas.
+  - c. Es una representación de la realidad.
+  - d. Todas las anteriores.
+- Son características deseables de los sistemas de información:
+  - a. Ofrecer la máxima cantidad posible de datos a todos los usuarios.
+  - b. El procesado no priorizado de información.
+  - c. Ser sistemas cerrados perfectamente ajustados a los requisitos puntuales y que no admite modificaciones para evitar posibles fallos en el futuro.
+  - **d. Ninguna de las anteriores.**
+- Una migración de un sistema de información siguiendo la estrategia de experiencia piloto consiste en:
+  - **a. Probar el nuevo sistema de información en un área limitada de la organización antes de su instalación en toda la compañía.**
+  - b. La convivencia y utilización del sistema nuevo y el antiguo durante un período de tiempo hasta la desactivación del antiguo.
+  - c. Ambas son correctas.
+  - d. Ninguna es correcta.
+- En la evolución histórica de los sistemas de información, durante la etapa de contagio de las aplicaciones:
+  - a. Existe una carencia de formación por parte de los empleados y no hay profesionales que puedan resolver dichos problemas dentro de la organización.
+  - b. Los sistemas de información son utilizados en la totalidad de la organización y son tenidos en cuenta por parte de la dirección como un elemento fundamental de la empresa.
+  - c. Ambas son correctas.
+  - **d. Ninguna de las anteriores.**
+
+## Tema 2 - Los sistemas de información (SI) de las organizaciones
+
+- ¿Qué es un proceso de negocio?
+  - a. Coordinación racional de las actividades de un grupo de personas con el propósito de alcanzar un fin.
+  - b. Estructura formal, estable, que toma recursos del entorno y los procesa para producir bienes y servicios
+  - c. **Reglas, procedimientos y prácticas que se han desarrollado para enfrentar prácticamente cualquier situación que surja.**
+  - d. Ninguna de las anteriores.
+- ¿Qué es un proceso de negocio?
+  - a. Conjunto de rutinas de producción.
+  - b. Reglas, procedimientos y prácticas que se han desarrollado para enfrentar prácticamente cualquier situación que surja.
+  - **c. Todas las anteriores.**
+  - d. Ninguna de las anteriores.
+- Según la clasificación de Mintzberg, la burocracia con divisiones como estructura empresarial consiste en:
+  - a. Un entorno muy variable, con un administrador único y habitualmente pequeña empresa.
+  - b. Un entorno que cambia con lentitud, con un equipo de administración centralizado.
+  - c. Una combinación de burocracias profesionales, con la oficina central distribuida en distintas localizaciones.
+  - **d. Ninguna de las anteriores.**
+- En la cadena de valor de Porter, la actividad de aprovisionamiento es:
+  - **a. Una actividad de apoyo.**
+  - b. Una actividad primaria.
+  - c. Ambas son correctas
+  - d. Ninguna de las anteriores.
+- En el diseño de organización denominado Estructura de Proyecto:
+  - a. Una estructura horizontal forma se superpone a las líneas de mando tradicionales (orientadas verticalmente)
+  - b. Permite un amplio poder de control, así como la división del mando y la responsabilidad
+  - c. Ambas son correctas
+  - **d. Ninguna de las anteriores**
+- La información rutinaria, repetitiva, histórica, bien estructurada, detallada, programable, precisa y con muy poca incertidumbre corresponde al nivel:
+  - **a. Operativo**
+  - b. Táctico
+  - c. Estratégico
+  - d. Ninguna de las anteriores
+- El procesamiento de transacciones en línea OLTP ( On-Line Transaction Processing):
+  - **a. Es un procesamiento para TPS de tipo operacional**
+  - b. Es un procesamiento para TPS de tipo estratégico
+  - c. No es un procesamiento para TPS
+  - d. Ninguna de las anteriores
+- Los sistemas de soporte a la toma de decisiones DSS (Decision Support Systems):
+  - **a. Son sistemas de nivel táctico para la toma de decisiones poco habituales.**
+  - b. Son sistemas de nivel estratégico para la toma de decisiones habituales
+  - c. Son sistemas de nivel operativo para el análisis de información
+  - d. Ninguna de las anteriores
+- Las empresas buscan mejorar la eficiencia para garantizar su rentabilidad:
+  - a. A través del grado de cumplimiento de un objetivo perseguido.
+  - **b. A través de un sistema que permita el ahorro de costes.**
+  - c. Ambas son correctas.
+  - d. Ninguna de las anteriores.
+- Una ventaja competitiva:
+  - a. Es el resultado que podemos lograr con las ventajas en el mercado.
+  - **b. Es una diferencia positiva, en general sobre otras organizaciones o sobre el estado actual de las cosas.**
+  - c. Ambas son correctas.
+  - d. Ninguna de las anteriores.
+- La estrategia de diferenciación consiste en:
+  - **a. Crear nuevos productos o servicios únicos**
+  - b. Aplicar técnicas de marketing novedosas para captar nuevos clientes
+  - c. Segmentar la información dirigida a los mandos directivos.
+  - d. Ninguna de las anteriores
+- La estructura organizacional basada en el modelo organizacional matricial:
+  - a. Mantiene una estructura funcional piramidal vertical.
+  - b. Dispone de una estructura horizontal formal.
+  - **c. Ambas son correctas.**
+  - d. Ninguna de las anteriores.
+- En el nivel operativo de la pirámide organizacional:
+  - **a. Se trabaja con los recursos de la actividad diaria y se gestionan las tareas a realizar en el corto plazo.**
+  - b. Se comparte información basada en informes.
+  - c. Se enfocan las líneas maestras de la empresa a largo plazo.
+  - d. Ninguna de las anteriores
+- ¿Qué es una organización?
+  - a. La coordinación racional de las actividades de un grupo de personas con el propósito de lograr un fin.
+  - b. La estructura social formal, estable, que toma recursos del entorno y los procesa para producir bienes y servicios.
+  - **c. Ambas son correctas.**
+  - d. Ninguna de las anteriores.
+- ¿Qué es una ventaja competitiva?
+  - a. Es el conjunto de resultados que podemos lograr con las ventajas en el mercado sobre los competidores.
+  - **b. Es la diferencia positiva, en general, sobre otras organizaciones o sobre el estado actual de las cosas.**
+  - c. Todas las anteriores.
+  - d. Ninguna de las anteriores.
+- En el modelo organizacional con estructura de proyecto:
+  - a. Superpone una estructura horizontal formal a las líneas de mando tradicionales.
+  - b. Se siguen los principios de unidad de mando, división del trabajo y límite de autoridad.
+  - c. Ambas son correctas.
+  - **d. Ninguna de las anteriores.**
+- Los sistemas de información de nivel táctico:
+  - a. Trabajan con información rutinaria, repetitiva, histórica, bien estructurada, detallada, programable, precisa y con muy poca incertidumbre.
+  - b. Trabajan con información resumida, abstracta y general, con gran incertidumbre y riesgos.
+  - c. Ambas son correctas.
+  - **d. Ninguna de las anteriores.**
+- Los sistemas de información de gestión (MIS – Management Information Systems):
+  - a. Procesan, resumen y presentan las salidas de los TPS subyacentes para proporcionar informes que describen el rendimiento de la actual empresa.
+  - b. Son sistemas de información de nivel táctico.
+  - **c. Ambas son correctas.**
+  - d. Ninguna de las anteriores
+
+## Tema 3 -Soluciones integradas para la planificación de recursos (ERP)
+
+- Los objetivos de un ERP son:
+  - a. Descentralizar la información para evitar los puntos de fallo y separar la información por áreas funcionales.
+  - b. Centralizar la base de datos ayudando a que el flujo de información circule por las diversas áreas de la empresa
+  - **c. Ambas son correctas**
+  - d. Ninguna es correcta
+- Un módulo vertical para un ERP es:
+  - **a. Es un módulo especializado en un sector económico o industrial concreto.**
+  - b. Es una funcionalidad que las empresas pueden añadir a lo largo de la vida útil del ERP para complementar las funcionalidades que no se instalaron inicialmente.
+  - c. Es un módulo que la empresa debe adquirir de forma obligatoria para que el ERP pueda funcionar.
+  - d. Ninguna de las anteriores.
+- Los módulos funcionales básicos de un ERP son:
+  - a. Son los que se van añadiendo a lo largo de la vida útil del sistema para complementar funcionalidades que en su momento no se consideraron básicas..
+  - **b. Son los módulos que toda empresa debe adquirir de forma obligatoria para que el sistema ERP pueda acometer sus funcionalidades más básicas.**
+  - c. Ambas son correctas.
+  - d. Ninguna es correcta.
+- Son inconvenientes de los ERPs verticalizados:
+  - a. Ser diseños de nicho.
+  - b. La especialización del servicio de soporte.
+  - **c. El coste de las licencias.**
+  - d. Ninguna de las anteriores.
+- ¿Cuál de estas afirmaciones sobre un ERP es falsa?:
+  - a. En el mercado no existe un único ERP para todo tipo de empresa.
+  - **b. Es software libre sin licenciar.**
+  - c. Se trata de un software modularizado, gradual, que ofrece especialización.
+  - d. Ninguna de las anteriores.
+- El análisis GAP de proyecto de implantación de un ERP:
+  - a. Tiene como objetivo impedir la resistencia al cambio de los empleados.
+  - b. Permite la reestructuración de procesos de trabajo y tareas diarias.
+  - **c. Realiza la comparación entre la situación actual y la deseada.**
+  - d. Todas las anteriores.
+- El objetivo fundamental de un módulo PLM es:
+  - **a. Recopilar información que pueda ser utilizada en otros proyectos y coordinar proyectos simultáneos.**
+  - b. Mejor control del stock.
+  - c. La atracción y selección de talento.
+  - d. Todas las anteriores.
+
+## Tema 4 - Gestión de la relaciones con los clientes (CRM)
+
+- Un CRM:
+  - a. Permite realizar una estrategia orientada al cliente.
+  - b. Favorece una gestión comercial estructurada que potencia la productividad de las ventas.
+  - c. Ofrece la posibilidad de llegar a un conocimiento profundo del cliente.
+  - **d. Todas son correctas.**
+- ¿Qué es un CRM?:
+  - a. El módulo capaz de gestionar todas las ventas de productos.
+  - **b. Permite realizar una gestión comercial estructurada y que potencia la productividad en las ventas.**
+  - c. Ofrece un conocimiento profundo de los proveedores.
+  - d. Todas las anteriores.
+- El CRM operativo:
+  - a. Se centra en la automatización de los procesos de venta, marketing y atención al cliente.
+  - b. Su propósito principal es aumentar la productividad de los equipos comerciales.
+  - c. Se compone de Front-office y Back-office.
+  - **d. Todas son correctas.**
+- Un CRM colaborativo:
+  - a. Hace referencia al almacenamiento, proceso, modelización y generación de informes con la información disponible.
+  - b. Hace referencia fundamentalmente a los procesos de negocio de la compañía.
+  - **c. Hace referencia a la utilización de los medios de contacto con el cliente: teléfono, SMS, fax, internet,…**
+  - d. Ninguna de las anteriores.
+- El CRM social:
+  - a. Es el CRM que se usa en las cooperativas para comunicarse con los socios de la compañía
+  - b. **Difiere del tradicional agregando la posibilidad de intercambio y conversación con los clientes.**
+  - c. Ambas son correctas.
+  - d. Ninguna es correcta
+- El CRM analítico:
+  - **a. Centra su atención en la recopilación y el análisis de datos de la interacción con los clientes.**
+  - b. Hace uso de máquinas IVR (Interactive Voice Response).
+  - c. Ambas son correctas.
+  - d. Ninguna es correcta.
+
+## Tema 5 - Gestión de la cadena de suministro (SCM)
+
+- Las aplicaciones de ejecución de los SCM:
+  - a. Emplean algoritmos avanzados para determinar la mejor manera de procesar un pedido.
+  - **b. Hacen un seguimiento del estado físico de las mercancías, de la gestión de materiales y de la información financiera relevante.**
+  - c. Ambas son correctas.
+  - d. Ninguna es correcta.
+- El acrónimo SCM correcponde a:
+  - a. Service Chain Monitoring.
+  - b. Supply Channel Monitoring.
+  - **c. Supply Chain Management.**
+  - d. Ninguna es correcta.
+- El acrónimo MRP corresponde a:
+  - a. Machine Resource Processing
+  - b. Monitoring Requirement Processing
+  - **c. Manufacturing Resource Planning**
+  - d. Ninguna de las anteriores.
+- El origen de los MRPs:
+  - a. Es la carrera espacial de los años 60
+  - b. Es militar desde la 2ª Guerra Mundial.
+  - c. Se basa en la gestión de suministro naval de la Marina.
+  - **d. Todas las anteriores.**
+- Un sistema de Gestión de la Cadena de Suministro (SMC – Supply Chain Mangement):
+  - **a. Sirve para decidir cuándo y qué producir, almacenar y desplazar, realiza el seguimiento de los pedidos e integra y automatiza la red de procesos y relaciones de negocio entre una empresa y sus proveedores, clientes, distribuidores y otros socios de negocio.**
+  - b. Ayuda a realizar las campañas de marketing individualizado, analizando el valor del cliente.
+  - c. Ambas son correctas.
+  - d. Ninguna es correcta.
+- El acrónimo SRM responde a:
+  - **a. Supplier Relationship Management**
+  - b. Service Relocating Management.
+  - c. Ambas son correctas.
+  - d. Ninguna es correcta.
+
+## Tema 6 - Gestión de recursos humanos (HCM)
+
+- Forman parte de las funciones de la gestión de recursos humanos:
+  - a. La gestión de la formación.
+  - b. La gestión de expatriados.
+  - c. La atracción y selección de talento.
+  - **d. Todas las anteriores.**
+- Las timesheets:
+  - a. Son las listas de especificaciones de los productos.
+  - b. Son la descripción del desarrollo temporal de un producto.
+  - **c. Son las imputaciones de horas a un proyecto.**
+  - d. Ninguna de las anteriores
+
+## Tema 7 - e-Commerce
+
+- La diferencia entre eCommerce y eBusiness es:
+  - a. El eCommerce es un concepto más amplio que incluye el eBusiness.
+  - **b. El eBusiness es un concepto más amplio que incluye el eCommerce.**
+  - c. Son dos términos equivalentes.
+  - d. Ninguna de las anteriores.
+- El comercio electrónico:
+  - a. Incluye las actividades del e-Business
+  - **b. Se incluye dentro de las actividades de e-Business**
+  - c. Es independiente del e-Business
+  - d. Ninguna de las anteriores
+- Un e-Marketplace:
+  - a. Es una website que representa a un único establecimiento
+  - b. Es una website que engloba varios establecimientos bajo una misma dirección.
+  - **c. Espacio web donde múltiples compradores y vendedores se reúnen para desarrollar actividades de e-commerce.**
+  - d. Ninguna de las anteriores.
+- En un Buy-Side Marketplace:
+  - **a. Los clientes son los que establecen la demanda de productos con sus requerimientos a los proveedores, que después realizan sus ofertas.**
+  - b. Los proveedores exponen las características de sus productos en la plataforma para que los clientes realicen las adquisiciones.
+  - c. Una plataforma independiente pone en contacto a compradores y proveedores.
+  - d. Ninguna de las anteriores
+- El mayor volumen de negocio en comercio electrónico se da en:
+  - a. B2C – Business to Consumer.
+  - **b. B2B – Business to business.**
+  - c. C2C – Consumer to Consumer.
+  - d. Todos son equivalentes.
+- El cheque electrónico como medio de pago:
+  - a. Está ampliamente aceptado en las transacciones entre particulares.
+  - b. Sólo merece la pena cuando el importe de la transacción es pequeño.
+  - c. No tiene mecanismos de seguridad robustos, y está siendo sustituido por el pago en criptomonedas.
+  - **d. Ninguna de las anteriores**
+
+## Tema 8 - Business Intelligence
+
+- Las fuentes de información de un Business Intelligence:
+  - **a. Integra todos los flujos de información de la empresa para producir un conjunto coherente de datos.**
+  - b. No incluye fuentes externas por las dificultades de integración de otros formatos de datos y falta de integridad.
+  - c. Ambas son correctas.
+  - d. Ninguna de las anteriores
+- Tipos de información obtenidos del data mining:
+  - **a. Asociaciones, clustering, pronósticos**
+  - b. Asociaciones, estimaciones, tendencias
+  - c. Tendencias, clustering, estimaciones
+  - d. Ninguna de las anteriores.
+- El análisis de datos multidimensional OLAP:
+  - a. Es una técnica que captura múltiples dimensiones de los datos para su visualización gráfica.
+  - **b. Representa la información en forma de cubo en el que cada aspecto de la información (precio, coste, región,...) representa una dimensión diferente en el cubo.**
+  - c. Consiste en el procesado multidimensional de los datos de entrada para su filtrado y limpieza, previos a la representación gráfica.
+  - d. Ninguna de las anteriores.
