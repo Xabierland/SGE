@@ -432,7 +432,7 @@
 - Logistica interna
   - Automatización de almacenes
   - Eliminación de almacenes, producción bajo demanda
-  - Utilización de tablets y móviles para comunicarse via email liquidaciones electronicas de gatos.
+  - Utilización de tablets y móviles para comunicarse via email liquidaciones electronicas de gastos.
 - Operaciones
   - Produccion flexible asistida por ordenador
   - Produccion bajo demanda
@@ -738,7 +738,7 @@
   - Son:
     - Contabilidad/Finanzas
       - Actividad economica de la empresa
-      - Presupueistos, contabilidad, gatos, cuentas, pagos, impuestos...
+      - Presupueistos, contabilidad, gastos, cuentas, pagos, impuestos...
     - Produccion/Inventario
       - Planificar la fabricaciones y la gestion de almacenes
     - Compras
@@ -1353,7 +1353,7 @@ Experimentados:
   - Evita inconsistencia en la información
   - Privacidad de la información
 - Gestión de gastos
-  - Notas de gatos
+  - Notas de gastos
   - Capturas de tickets
   - Facturas
   - Verifica extractos con la cuenta bancaria
